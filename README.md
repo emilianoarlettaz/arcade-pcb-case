@@ -16,7 +16,7 @@ You can use Crystal Acrylic of 4, 5 or 6 mm of thickness.
 
 The holes to mount a fan or cooler on boards like Killer Instinct are always M4 (4 mm) because that is the standard for those devices.
 
-##Materials needed
+## Materials needed
 
 After laser cut and engrave the patters on Acrylic, to assemble the case you will need:
 
