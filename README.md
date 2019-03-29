@@ -14,4 +14,19 @@ You can use Crystal Acrylic of 4, 5 or 6 mm of thickness.
 
 `_m4` files are for M4 screw holes (4 mm).
 
-The holes to mount a fan or cooler on boards like Killer Instinct are always 4M (4 mm) because that is the standard for those devices.
+The holes to mount a fan or cooler on boards like Killer Instinct are always M4 (4 mm) because that is the standard for those devices.
+
+##Materials needed
+
+After laser cut and engrave the patters on Acrylic, to assemble the case you will need:
+
+Required for each mounting hole:
+
+- 1x female-female hexagonal standoff (M3 or M4)
+- 1x male-female hexagonal standoff (M3 or M4)
+- 2x M3 or M4 screw (12 mm long)
+
+Optional for each mounting hole:
+
+- 2x M3 or M4 plastic washer (to better protect the PCB)
+- 1x M3 or M4 plastic feet (to protect the case from scratches)
