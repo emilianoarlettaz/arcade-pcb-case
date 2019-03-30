@@ -1,6 +1,6 @@
 # arcade-pcb-case
 
-Patters to build Arcade PCB cases.
+Patterns to build Arcade PCB cases.
 
 You can use Crystal Acrylic of 4, 5 or 6 mm of thickness.
 
@@ -18,7 +18,7 @@ The holes to mount a fan or cooler on boards like Killer Instinct are always M4 
 
 ## Materials needed
 
-After laser cut and engrave the patters on Acrylic, to assemble the case you will need:
+After laser cut and engrave the patterns on Acrylic, to assemble the case you will need:
 
 Required for each mounting hole:
 
