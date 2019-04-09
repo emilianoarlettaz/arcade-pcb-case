@@ -4,7 +4,7 @@ Patterns to build Arcade PCB cases.
 
 You can use Crystal Acrylic of 4, 5 or 6 mm of thickness.
 
-![Example Case](./example_case.jpg)
+![Example Case](./docs/img/example_case.jpg)
 
 `_normal` files are for laser cut with engraved loggo from the outside of the case.
 
