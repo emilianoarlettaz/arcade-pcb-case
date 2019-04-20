@@ -12,9 +12,9 @@ Killer Instinct            |  Ultimate Mortal Kombat 3
 
 ## Let's make our own case, step by step
 
-### Step 1: Select the patter
+### Step 1: Select the pattern
 
-On the [petters forlder](https://github.com/emilianoarlettaz/arcade-pcb-case/tree/master/patters) of this repository, you will find a subfolder containing the patters of each available game. On each game, you must select ***only one file*** to make the case. The file you need to chose will depend on 3 factors:
+On the [petters forlder](https://github.com/emilianoarlettaz/arcade-pcb-case/tree/master/patterns) of this repository, you will find a subfolder containing the patterns of each available game. On each game, you must select ***only one file*** to make the case. The file you need to chose will depend on 3 factors:
 
 * The size of the screws you are going to use to mount the case (M3 (3mm) or M4 (4mm)).
 * The side of the top case where you want to engrave the logo of the game (from the outside or from the inside).
@@ -33,7 +33,7 @@ Based on the previous criteria, you must select the file looking at the `tags` o
 
 Note that the holes to mount a fan or cooler on boards like `Killer Instinct` are always M4 (4 mm) because that is the standard for those devices.
 
-Taking all this into account, let's suppose we want to make a case for a Sunset Riders board, using M4 screws and engraving the logo from the inside of the top case. We must choose the file `sunset_riders_reverse_m4.eps` that you can find on [this link](https://github.com/emilianoarlettaz/arcade-pcb-case/blob/master/patters/sunset_riders/sunset_riders_reverse_m4.eps)
+Taking all this into account, let's suppose we want to make a case for a Sunset Riders board, using M4 screws and engraving the logo from the inside of the top case. We must choose the file `sunset_riders_reverse_m4.eps` that you can find on [this link](https://github.com/emilianoarlettaz/arcade-pcb-case/blob/master/patterns/sunset_riders/sunset_riders_reverse_m4.eps)
 
 ### Step 2: Laser cut the case
 
