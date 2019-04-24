@@ -43,7 +43,7 @@ I really like how the `clear acrylic` looks for these cases because they let you
 
 For my first case, I used `6mm thickness clear acrylic`. It looks very well, but I think that adds too much weight to the final results. So, I moved to something more compact and lightweight. For the second iteration, I used `4mm thickness clear acrylic`. I'm very happy with the results, even for large boards like Ultimate Mortal Kombat 3.
 
-You can buy your own material, or several laser cut stores provide their own materials. If you are going to buy the material, there is a `size.txt` file on each game folder, where you can find the size of the material you need to buy to laser cut the entire plan for the case (top and bottom parts). This also has into account a little margin, to avoid any problems on the cutting process. For example, for Sunset Riders board, following the specifications of the [size.txt]() file, you need to buy a rectangle of Xcm x Xcm of material.
+You can buy your own material, or several laser cut stores provide their own materials. If you are going to buy the material, there is a `size.txt` file on each game folder, where you can find the size of the material you need to buy to laser cut the entire plan for the case (top and bottom parts). This also has into account a little margin, to avoid any problems on the cutting process. For example, for Sunset Riders board, following the specifications of the [size.txt](https://github.com/emilianoarlettaz/arcade-pcb-case/blob/master/games/sunset_riders/size.txt) file, you need to buy a rectangle of Xcm x Xcm of material.
 
 To laser cut the material, you can use your own machine or can go to a laser cut store with the plan. The information you need to provide to the store is the following:
 
