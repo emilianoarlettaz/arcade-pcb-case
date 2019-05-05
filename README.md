@@ -100,3 +100,49 @@ Plastic washers on the PBC mounting hole | Top standoff on place
 Top case part on place | Final result
 :-------------------------:|:-------------------------:
 ![Top case part on place](./docs/img/complete_standoff_detail.jpg)  |  ![Final result](./docs/img/sunset_riders_case_3.jpg)
+
+### Additional Step: Assembly the cooler
+
+Some games like Killer Instinct are known for having a heat problem. By adding a cooler over the CPU, mounted on the case, we can dramatically reduce the operating temperature of the device. This is intended to increase the life of the board. To mount a cooler on this kind of games, you will need the following materials:
+
+#### Required materials to mount the cooler:
+
+- 1x `cooler of fan` of 60mm x 60mm size (12 or 5 Volts).
+- 4x `M4 screws (4mm)` long enough to pass throw the cooler and the top case (20 mm at least).
+- 4x `M4 nuts (4mm)` to adjust the screws from the interior side of the top case.
+- 1x `2 pins male connector with wire`.
+- 1x `2 pins female connector with wire`.
+
+Materials for assemble the cooler or fan                         |
+:------------------------------------:|
+![Materials for assemble each mounting hole](./docs/img/cooler_materials.jpg)|
+
+#### Mount the cooler or fan
+
+If the cooler or fan you bought have 3 wires, just `ignore the yellow one`. You can even cut it. 
+
+Solder the `2 pins connector to the red and black wires of the cooler`. Make sure you the wire to the connector is long enough to reach the end of the case from the processor area.
+
+For 12 Volts cooler, solder the red wire of the female 2 pins connector to the `12 Volts line of Jamma harness` (pins 6 or F).
+
+For 5 Volts cooler, solder the red wire of the female 2 pins connector to the `5 Volts line of Jamma harness` (pins 3, 4, C or D).
+
+On both cases, solder the black wire of the 2 pins female connector to the `Ground line of Jamma harness` (pins 1, 2, 27, 28, A, B, e or f).
+
+In all cases you have to solder the wire to only one of the corresponding pins, there is no need of solder to all points. Usually they are already join at some point.
+
+Align the cooler with the corresponding mounting hole over the PCB processor from the interior side of the top case. Make sure that the side of the cooler with the brand logo and some spects like the voltaje, is facing down towars the processor. This will ensure that the wind hits the CPU, cooling it.
+
+Use the 4 screws and the 4 nuts to fix the cooler on the top case. Aditionally, you can use 2 more screws and 2 more nuts to fix the rest of the wire from the cooler to the outside of the case, using the extra holes provided for that.
+
+Every time you connect the Jamma harness to the board, make sure you also connect the cooler with the 2 pins connectors we added.
+
+On the following pictures, you can see the final results:
+
+Cooler on top case from the inside | Cooler on top case from the outside
+:-------------------------:|:-------------------------:
+![Cooler on top case from the inside](./docs/img/cooler_on_case.jpg)  |  ![Cooler on top case from the outside](./docs/img/top_case_with_cooler.jpg)
+
+Additional wire mounting              |
+:------------------------------------:|
+![Additional wire mounting](./docs/img/cooler_cable_detail.jpg)|
